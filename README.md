@@ -2,9 +2,8 @@
 <p align="center">
 Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del desarrollo web, aspiro a obtener mi primer empleo IT, aportando mis conocimientos y mis continuas ganas de seguir aprendiendo.
 </p>
-
-
-<strong>Tecnologías que manejo 🧑‍💻</strong>
+<br>
+<strong>Tecnologías que manejo 💻</strong>
 
 - HTML
 - CSS
