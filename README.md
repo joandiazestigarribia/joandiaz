@@ -19,7 +19,3 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del
 ### Contacto 📧
 
 - joan.diaz094@gmail.com
-
-### Curriculum Vitae 🪐
-
-- https://cv-diazjoan.netlify.app/
