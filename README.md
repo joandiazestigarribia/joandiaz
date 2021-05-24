@@ -10,7 +10,7 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del
 - HTML
 - CSS
 - JavaScript
-- Java
+- React
 
 <strong>Mis proyectos 🛠</strong>
 
