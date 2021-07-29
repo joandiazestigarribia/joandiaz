@@ -5,13 +5,18 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del
 
 
 
-<strong>Tecnologías que manejo 💻</strong>
+<strong>Conocimientos y aptitudes 💻</strong>
 
-- HTML
-- CSS
-- JavaScript
-- React
-- API's / Rest API's
+- Maquetación Web (HTML/HTML5)
+- CSS Preprocessing (SASS)
+- CSS Frameworks (Bootstrap)
+- CSS Layouts (Flexbox/Box Model/CSS Grid)
+- JavaScript (Vanilla/JQuery)
+- ReactJS
+- Responsive/Mobile Implementación
+- RESTFULL Service/Api
+- Visual Studio Code
+- Estudiante universitario
 
 <strong>Mis proyectos 🛠</strong>
 
