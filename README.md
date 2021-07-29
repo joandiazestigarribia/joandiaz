@@ -11,6 +11,7 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del
 - CSS
 - JavaScript
 - React
+- API's / Rest API's
 
 <strong>Mis proyectos 🛠</strong>
 
