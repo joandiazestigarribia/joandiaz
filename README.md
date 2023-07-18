@@ -1,6 +1,6 @@
 ***
 <p align="center">
-Hola, me llamo Joan Ignacio Diaz Estigarribia, soy un estudiante autodidacta del desarrollo web, aspiro a obtener mi primer empleo IT, aportando mis conocimientos y mis continuas ganas de seguir aprendiendo.
+Hola, me llamo Joan Ignacio Diaz Estigarribia, desarrollador frontend oriundo de Argentina.
 </p>
 
 
