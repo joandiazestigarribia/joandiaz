@@ -8,11 +8,12 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, desarrollador frontend oriundo de
 <strong>Conocimientos y aptitudes 💻</strong>
 
 - Maquetación Web (HTML/HTML5)
-- CSS Preprocessing (SASS)
-- CSS Frameworks (Bootstrap)
+- CSS Frameworks (Bootstrap, Tailwind)
 - CSS Layouts (Flexbox/Box Model/CSS Grid)
 - JavaScript (Vanilla/JQuery)
 - ReactJS
+- TypeScript
+- NextJS
 - Responsive/Mobile Implementación
 - RESTFULL Service/Api
 - Visual Studio Code
