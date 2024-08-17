@@ -21,7 +21,8 @@ Hola, me llamo Joan Ignacio Diaz Estigarribia, desarrollador frontend oriundo de
 
 <strong>Mis proyectos 🛠</strong>
 
-- Podes encontrarlos en mi repositorio, junto con sus respectivas demostraciones
+- Proyectos personales: podes encontrarlos en mi repositorio, junto con sus respectivas demostraciones
+- Proyectos profesionales: sin repositorios públicos, diversos proyectos que se encuentran en producción actualmente
 
 ### Contacto 📧
 
